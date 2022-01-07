@@ -1,10 +1,10 @@
 # GROESTLSUM
-[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/groestlsum/blob/master/LICENSE.md) 
-[![GoDoc](https://godoc.org/github.com/pedroalbanese/groestlsum?status.png)](http://godoc.org/github.com/pedroalbanese/groestlsum)
-[![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/groestlsum)](https://goreportcard.com/report/github.com/pedroalbanese/groestlsum)
-[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/groestlsum)](https://golang.org)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/groestlsum)](https://github.com/pedroalbanese/groestlsum/releases)
-### Grøstl Recursive Hasher
+[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/groestl/blob/master/LICENSE.md) 
+[![GoDoc](https://godoc.org/github.com/pedroalbanese/groestl?status.png)](http://godoc.org/github.com/pedroalbanese/groestl)
+[![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/groestl)](https://goreportcard.com/report/github.com/pedroalbanese/groestl)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/groestl)](https://golang.org)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/groestl)](https://github.com/pedroalbanese/groestl/releases)
+### GrÃ¸stl Recursive Hasher
 <PRE>
 Usage of groestlsum:
 groestlsum [-v] [-c <hash.groestl>] [-r] <file.ext>
