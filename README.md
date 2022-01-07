@@ -7,7 +7,7 @@
 ### Grøstl Recursive Hasher
 <PRE>
 Usage of groestlsum:
-groestlsum [-v] [-c <hash.groestl>] [-r] &lt;file.ext&gt;
+groestlsum [-v] [-c &lt;hash.groestl&gt;] [-r] &lt;file.ext&gt;
   -c string
         Check hashsum file.
   -r    Process directories recursively.
