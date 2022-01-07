@@ -11,8 +11,7 @@ groestlsum [-v] [-c <hash.groestl>] [-r] <file.ext>
   -c string
         Check hashsum file.
   -r    Process directories recursively.
-  -v    Verbose mode. (for CHECK command)
-  </PRE>
+  -v    Verbose mode. (for CHECK command)</PRE>
   
 ### Examples:
 #### Generate hashsum list:
