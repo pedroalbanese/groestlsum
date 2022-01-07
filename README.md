@@ -15,20 +15,16 @@ groestlsum [-v] [-c <hash.groestl>] [-r] <file.ext>
   </PRE>
   
 ### Examples:
-
 #### Generate hashsum list:
 ```sh
 $ ./groestlsum [-r] "*.*" > hash.txt
 ```
 ##### Always works in binary mode. 
-
 #### Check hashsum file:
 ```sh
 $ ./groestlsum [-v] -c hash.txt
 ```
 ##### Exit code is always 0 in verbose mode. 
-
 ## License
-
 This project is licensed under the ISC License.
 ##### Copyright (c) 2020-2021 Pedro Albanese - ALBANESE Lab.
