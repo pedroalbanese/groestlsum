@@ -4,7 +4,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/groestl)](https://goreportcard.com/report/github.com/pedroalbanese/groestl)
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/groestl)](https://golang.org)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/groestl)](https://github.com/pedroalbanese/groestl/releases)
-### Grøstl Recursive Hasher
+### Grøstl-256 Recursive Hasher
 <PRE>
 Usage of groestlsum:
 groestlsum [-v] [-c &lt;hash.groestl&gt;] [-r] &lt;file.ext&gt;
