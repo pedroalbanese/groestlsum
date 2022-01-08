@@ -1,4 +1,4 @@
-# GROESTLSUM
+# groestlsum
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/groestl/blob/master/LICENSE.md) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/groestl?status.png)](http://godoc.org/github.com/pedroalbanese/groestl)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/groestl)](https://goreportcard.com/report/github.com/pedroalbanese/groestl)
@@ -26,4 +26,4 @@ $ ./groestlsum [-v] -c hash.txt
 ##### Exit code is always 0 in verbose mode. 
 ## License
 This project is licensed under the ISC License.
-##### Copyright (c) 2020-2021 Pedro Albanese - ALBANESE Lab.
+##### Copyright (c) 2020-2021 Pedro Albanese - ALBANESE Research Lab.
