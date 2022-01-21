@@ -1,6 +1,7 @@
 # groestlsum
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/groestl/blob/master/LICENSE.md) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/groestl?status.png)](http://godoc.org/github.com/pedroalbanese/groestl)
+[![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/groestl/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/groestl/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/groestl)](https://goreportcard.com/report/github.com/pedroalbanese/groestl)
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/groestl)](https://golang.org)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/groestl)](https://github.com/pedroalbanese/groestl/releases)
