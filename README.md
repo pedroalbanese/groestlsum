@@ -21,7 +21,7 @@ $ ./groestlsum [-r] "*.*" > hash.txt
 ```
 #### Check hashsum file:
 ```sh
-$ ./groestlsum [-v] -c hash.txt
+$ ./groestlsum -c hash.txt
 $ echo $?
 ```
 ## License
