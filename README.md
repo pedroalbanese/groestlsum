@@ -12,19 +12,18 @@ groestlsum [-v] [-c &lt;hash.groestl&gt;] [-r] &lt;file.ext&gt;
   -c string
         Check hashsum file.
   -r    Process directories recursively.
-  -v    Verbose mode. (for CHECK command)</PRE>
+</PRE>
   
 ### Examples:
 #### Generate hashsum list:
 ```sh
 $ ./groestlsum [-r] "*.*" > hash.txt
 ```
-##### Always works in binary mode. 
 #### Check hashsum file:
 ```sh
 $ ./groestlsum [-v] -c hash.txt
+$ echo $?
 ```
-##### Exit code is always 0 in verbose mode. 
 ## License
 This project is licensed under the ISC License.
-##### Copyright (c) 2020-2021 Pedro Albanese - ALBANESE Research Lab.
+##### Copyright (c) 2020-2022 Pedro F. Albanese - ALBANESE Research Lab.
